@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Mostly I'm sharing **Gists** about **Django** ecosystem [here](https://gist.github.com/ishakoktn)!
 <!--
 **ishakoktn/ishakoktn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
